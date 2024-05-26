@@ -1,11 +1,11 @@
 .navbar-container {
     height: 50px;
+    width: 100%;
     display: flex;
     align-items: center;
     padding: 10px 20px;
-    background-color: rgb(157, 157, 157);
+    background-color: rgb(203, 203, 203);
     color: black;
-    box-shadow: 2px 1px 12px rgb(176, 176, 176);
   }
   
   .logo {
