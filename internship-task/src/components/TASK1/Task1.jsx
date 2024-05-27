@@ -1,4 +1,3 @@
-// Task1.jsx
 import React, { useState } from 'react';
 import * as XLSX from 'xlsx';
 import FileUpload from './FileUpload';

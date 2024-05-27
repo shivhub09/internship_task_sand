@@ -1,5 +1,5 @@
 import React from 'react';
-import './SheetSelector.css'; // Import the CSS file
+import './SheetSelector.css'; 
 
 const SheetSelector = ({ sheets, onSheetSelect }) => (
   <select className="select" onChange={(e) => onSheetSelect(e.target.value)}>
